@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cercle
+  - Carre
+  - Triangle
+  - Ground
+  - Ennemis
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Cercle
+  - Carre
+  - Triangle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Signs
+    uniqueID: 4211605675
+    locked: 0
+  - name: Pnjs
+    uniqueID: 182494625
+    locked: 0
+  - name: Player
+    uniqueID: 1196048027
+    locked: 0
+  - name: Pillars/Autres
+    uniqueID: 3157586883
+    locked: 0
+  - name: Cecle
+    uniqueID: 4008488719
+    locked: 0
+  - name: carre
+    uniqueID: 1686881037
+    locked: 0
+  - name: triangle
+    uniqueID: 2793805023
+    locked: 0
